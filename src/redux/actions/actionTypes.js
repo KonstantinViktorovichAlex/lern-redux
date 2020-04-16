@@ -1,0 +1,6 @@
+export const PLUS = 'PLUS'
+export const MINUS = 'MINUS'
+export const RESET = 'RESET'
+export const CHANGE = 'CHANGE'
+export const CHANGENUMBER = 'CHANGENUMBER'
+export const ONPLUSVALUE = 'ONPLUSVALUE'
